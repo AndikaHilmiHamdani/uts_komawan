@@ -129,7 +129,7 @@ $latestVideoId = $result['items'][0]['id']['videoId'];
               <div class="col-md-8">
                 <h5><?= $channelName; ?></h5>
                 <p><?= $subscriber; ?> Subscribers.</p>
-                <div class="g-ytsubscribe" data-channelid="UCkXmLjEr95LVtGuIm3l2dPg" data-layout="default" data-count="default"></div>
+                <div class="g-ytsubscribe" data-channelid="UCB9N3dNZ1ETsNb_CLIIvKKg" data-layout="default" data-count="default"></div>
               </div>
             </div>
             <div class="row mt-3 pb-3">
